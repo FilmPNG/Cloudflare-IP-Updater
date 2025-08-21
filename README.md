@@ -27,11 +27,8 @@
 
 #### ขั้นตอนสรุป
 1. ดาวน์โหลดไฟล์ `.exe` หรือ `.zip`  
-   ![Step 1](images/step1.png)  
 2. รันโปรแกรมบน Windows 10/11 หรือ Windows Server  
-   ![Step 2](images/step2.png)  
-3. โปรแกรมจะทำงานเบื้องหลังและอัปเดต IP ของคุณบน Cloudflare อัตโนมัติ  
-   ![Step 3](images/step3.png)  
+3. โปรแกรมจะทำงานเบื้องหลังและอัปเดต IP ของคุณบน Cloudflare อัตโนมัติ 
 
 ### คำถามที่พบบ่อย (FAQ)
 **Q: ต้องมี IP แบบคงที่ไหม?**  
@@ -68,11 +65,8 @@ For detailed guide:
 
 #### Quick Steps
 1. Download the `.exe` or `.zip` file  
-   ![Step 1](images/step1.png)  
 2. Run the program on Windows 10/11 or Windows Server  
-   ![Step 2](images/step2.png)  
 3. The program will run in the background and update your IP on Cloudflare automatically  
-   ![Step 3](images/step3.png)  
 
 ### Frequently Asked Questions (FAQ)
 **Q: Do I need a static IP?**  
